@@ -1,3 +1,5 @@
+
+
 # [Project #1: Japanese Kanji Revision Analysis](https://github.com/MattPCollins/Japanese-Revision)
 
 As part of an effort to increase my efficiency in my Japanese studies, I created my own revision program in Python, as an avenue of my self-development. Within this I used a spaced-repetition algorithm to handle the frequency of my practice attempts for each words in my personal dictionary.
