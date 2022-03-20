@@ -15,10 +15,10 @@ The blog post can be found [here.](https://blog.coeo.com/azure-data-and-analytic
 
 ![](https://github.com/MattPCollins/StackOverflowAnalysis/blob/main/Screen%20Shot%202022-03-20%20at%2014.30.40.png)
 
-# [Project #3: String generalisation tool](https://github.com/MattPCollins/Classification)
+# [Project #3: String generalisation tool for Natural Language Processing](https://github.com/MattPCollins/Classification)
 
-As part of a classification machine learning project I was looking for a way to improve feature importance of one dimension in my data set. The data set itself was descriptive of a target parameter I was trying to classify but, due to high variation in the strings, it was hard to use as a feature for prediction. Within this, however, there were similarities in the strings and some data cleansing would improve the usefulness of this parameter. 
+As part of a classification machine learning project I was looking for a way to improve feature importance of one dimension in my data set. The feature itself was descriptive of a target parameter I was trying to classify but, due to high variation in the strings, it was hard to use as a feature for prediction. Within this, however, there were similarities in the strings and some data cleansing would improve the usefulness of this parameter. 
 
-With ReGex being an expensive and calculated approach to data processing, this laborious approach inspired me to consider automating this string manipulation process, allowing faster categorisation of the data and deliver analysis and modelling quicker – the value we’re undoubtedly looking for!
+With ReGex being an expensive and calculated method within Natural Language Processing (NLP), this laborious approach inspired me to consider automating this string manipulation process, allowing unsupervised categorisation of the data and deliver analysis and modelling quicker – the value we’re undoubtedly looking for!
 
 ![](https://github.com/MattPCollins/Classification/blob/main/images/matrix.png)
