@@ -6,14 +6,14 @@ As part of an effort to increase my efficiency in my Japanese studies, I created
 
 This project looks to analyse the findings of my studies and tune my learning algorithm to reduce my speed of learning characters/words while retaining retention of the word in my memory.
 
-![](https://github.com/MattPCollins/Japanese-Revision/blob/master/Screenshots/daily_practice.png)
+![](images/kanji_practiced_over_time.png)
 
 # [Project #2: Azure data and analytics trends in 2021](https://github.com/MattPCollins/StackOverflowAnalysis)
 
 This mini-project involved reviewing Stack Overflow questions regarding Azure technologies in the data world and what trends and behaviours were like in 2021.
 The blog post can be found [here.](https://blog.coeo.com/azure-data-and-analytics-trends-in-2021-what-does-stack-overflow-have-to-say)
 
-![](https://github.com/MattPCollins/StackOverflowAnalysis/blob/main/Screen%20Shot%202022-03-20%20at%2014.30.40.png)
+![](images/azure_comparative_plot.png)
 
 # [Project #3: String generalisation tool for Natural Language Processing](https://github.com/MattPCollins/Classification)
 
@@ -21,4 +21,4 @@ As part of a classification machine learning project I was looking for a way to 
 
 With ReGex being an expensive and calculated method within Natural Language Processing (NLP), this laborious approach inspired me to consider automating this string manipulation process, allowing unsupervised categorisation of the data and deliver analysis and modelling quicker – the value we’re undoubtedly looking for!
 
-![](https://github.com/MattPCollins/Classification/blob/main/images/matrix.png)
+![](images/string_similarity_matrix.png)
