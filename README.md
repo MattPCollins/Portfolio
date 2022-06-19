@@ -22,3 +22,12 @@ As part of a classification machine learning project I was looking for a way to 
 With ReGex being an expensive and calculated method within Natural Language Processing (NLP), this laborious approach inspired me to consider automating this string manipulation process, allowing unsupervised categorisation of the data and deliver analysis and modelling quicker – the value we’re undoubtedly looking for!
 
 ![](/images/string_similarity_matrix.png)
+
+# [Project #4: Parallelising workloads in Pyspark: Pandas UDFs Vs concurrent.futures ](https://github.com/MattPCollins/ConcurrentModelTraining)
+
+I've recently been working on an internal project to predict future disk space usage for our customers across thousands of disks. Each disk is subject to its own usage patterns and this means we need a separate machine learning model for each disk which takes historical data to predict future usage on a disk-by-disk basis. While performing this prediction and choosing the correct algorithm for the job is a challenge in itself, performing this at scale has its own problems.
+
+In order to take advantage of more sophisticated infrastructure, we can look to move away sequential predictions to parallel and speed up the operation of the forecasting. This project compares Pandas UDFs and the concurrent.futures module, two approaches of concurrent processing, and determine use cases for each using sequential processing via a for loop as a baseline.
+
+![](/images/string_similarity_matrix.png)
+
